@@ -1,2 +1,4 @@
-# BTSpeaker
-How I designed and built my 40 watt semi-portable bluetooth speaker
+# Bluetooth Speaker
+
+All files and BOM for this project can be found in the 'files' folder.
+See my writeup about it [here]()
